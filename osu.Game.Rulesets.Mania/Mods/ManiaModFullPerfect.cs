@@ -12,7 +12,6 @@ namespace osu.Game.Rulesets.Mania.Mods
 {
     public class ManiaModFullPerfect : ManiaModPerfect
     {
-
         public override string Name => "Full Perfect";
         public override string Acronym => "FP";
         public override LocalisableString Description => @"Placeholder";
